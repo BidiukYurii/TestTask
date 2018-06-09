@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="create_notif">Create notification</string>
+    <string name="notif_title">You create a notification</string>
+    <string name="notif_text">Notification </string>
+    <string name="saved_tag">Saved</string>
+    <string name="saved_count_tag">SavedCount</string>
+</resources>
